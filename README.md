@@ -6,6 +6,10 @@
 
 选择服务区界面会根据服务器区间生成不同的服区选择按钮，服务区通过读取Json配置数据生成。
 
+### 运行环境
+Unity 2021.3.23f1c1(LTS)
+
+
 ![Image text](https://github.com/wucube/ChooseServer-And-Login-UI/blob/main/_Image/%E6%B3%A8%E5%86%8C%E8%B4%A6%E6%88%B7.jpg)
 
 ![Image text](https://github.com/wucube/ChooseServer-And-Login-UI/blob/main/_Image/%E9%80%89%E6%8B%A9%E6%9C%8D%E5%8C%BA.jpg)
